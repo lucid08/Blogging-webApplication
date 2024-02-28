@@ -22,3 +22,6 @@ export const API_NOTIFICATION_MESSAGES = {
         message:'Unable to connect with the server. Please check internet connectivity'
     }
 }
+
+
+// API Service calls
